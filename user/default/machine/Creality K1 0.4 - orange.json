@@ -1,0 +1,19 @@
+{
+    "before_layer_change_gcode": ";BEFORE_LAYER_CHANGE\n;[layer_z]\nG92 E0",
+    "change_filament_gcode": "M600",
+    "from": "User",
+    "inherits": "Creality K1 (0.4 nozzle)",
+    "is_custom_defined": "0",
+    "layer_change_gcode": "SET_PRINT_STATS_INFO CURRENT_LAYER={layer_num + 1}\n;AFTER_LAYER_CHANGE\n;[layer_z]",
+    "machine_pause_gcode": "M600",
+    "machine_start_gcode": "SET_PRINT_STATS_INFO TOTAL_LAYER=[total_layer_count]\nM140 S0\nM104 S0\nSTART_PRINT EXTRUDER_TEMP=[nozzle_temperature_initial_layer] BED_TEMP=[bed_temperature_initial_layer_single]",
+    "name": "Creality K1 0.4 - orange",
+    "print_host": "192.168.1.19",
+    "printer_settings_id": "Creality K1 0.4 - orange",
+    "time_lapse_gcode": "TIMELAPSE_TAKE_FRAME",
+    "version": "1.9.0.2",
+    "z_hop": [
+        "0.3"
+    ],
+    "z_offset": "-0.05"
+}

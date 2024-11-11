@@ -1,0 +1,43 @@
+{
+    "default_filament_colour": [
+        "#29FEC4"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "fan_max_speed": [
+        "70"
+    ],
+    "fan_min_speed": [
+        "40"
+    ],
+    "filament_flow_ratio": [
+        "0.97"
+    ],
+    "filament_max_volumetric_speed": [
+        "20"
+    ],
+    "filament_settings_id": [
+        "ABS Hyper"
+    ],
+    "filament_vendor": [
+        "Retro D"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "100"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "100"
+    ],
+    "inherits": "Creality Generic ABS",
+    "is_custom_defined": "0",
+    "name": "ABS Hyper",
+    "pressure_advance": [
+        "0.028"
+    ],
+    "slow_down_min_speed": [
+        "100"
+    ],
+    "version": "1.9.0.2"
+}

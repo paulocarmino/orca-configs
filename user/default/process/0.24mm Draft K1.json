@@ -1,0 +1,23 @@
+{
+    "accel_to_decel_enable": "0",
+    "bottom_shell_layers": "4",
+    "enable_support": "1",
+    "from": "User",
+    "gap_infill_speed": "250",
+    "inherits": "0.20mm Standard @Creality K1 (0.4 nozzle)",
+    "initial_layer_acceleration": "5000",
+    "initial_layer_infill_speed": "70",
+    "initial_layer_print_height": "0.24",
+    "internal_solid_infill_speed": "250",
+    "is_custom_defined": "0",
+    "layer_height": "0.24",
+    "name": "0.24mm Draft K1",
+    "outer_wall_acceleration": "3000",
+    "print_settings_id": "0.24mm Draft K1",
+    "sparse_infill_speed": "270",
+    "top_shell_layers": "4",
+    "travel_jerk": "30",
+    "travel_speed": "600",
+    "version": "1.9.0.2",
+    "wall_loops": "2"
+}

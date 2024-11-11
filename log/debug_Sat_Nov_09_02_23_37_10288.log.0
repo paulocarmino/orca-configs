@@ -1,0 +1,14 @@
+[warning]	2024-11-09 02:23:37.167613[Thread 0x00001300]:Failed to load to hints.cereal. File does not exists. C:\Users\conta\AppData\Roaming\OrcaSlicer\user\hints.cereal
+[error]	2024-11-09 02:23:39.324699[Thread 0x00001300]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-09 02:23:40.858128[Thread 0x00001300]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-09 02:23:41.346132[Thread 0x00001300]:Slic3r::GUI::GuideFrame::LoadProfileFamily: parse C:\ProgramData\chocolatey\lib\orcaslicer\tools\OrcaSlicer\resources\profiles\Creality.json got exception: [json.exception.type_error.302] type must be string, but is null
+[error]	2024-11-09 02:23:41.377375[Thread 0x00001300]:Slic3r::GUI::GuideFrame::LoadProfileFamily: parse C:\ProgramData\chocolatey\lib\orcaslicer\tools\OrcaSlicer\resources\profiles\Elegoo.json got exception: [json.exception.type_error.302] type must be string, but is null
+[error]	2024-11-09 02:23:41.486724[Thread 0x00001300]:Slic3r::GUI::GuideFrame::LoadProfileFamily: parse C:\ProgramData\chocolatey\lib\orcaslicer\tools\OrcaSlicer\resources\profiles\Kingroon.json got exception: [json.exception.type_error.302] type must be string, but is null
+[error]	2024-11-09 02:24:05.941330[Thread 0x00000c54]:[install_plugin]: 1379, got 3 files
+[warning]	2024-11-09 02:24:06.222514[Thread 0x00001300]:Slic3r::NetworkAgent::get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2024-11-09 02:24:06.222514[Thread 0x00001300]:Slic3r::NetworkAgent::get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2024-11-09 02:24:17.058955[Thread 0x00001300]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2024-11-09 02:24:17.727704[Thread 0x00001cfc]:[Orca Updater]: online version=1.9.5.1, current_version=1.9.5.1, no need to download
+[error]	2024-11-09 02:25:14.559939[Thread 0x00001300]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-09 02:25:15.643885[Thread 0x00001300]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-09 02:26:08.383922[Thread 0x00001300]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
